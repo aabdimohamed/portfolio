@@ -47,6 +47,26 @@
 
 <sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
 
+## 🌐 Connect With Me:
+
+<p align="left">
+  <!-- Badge Gmail (Remplace ton.email@gmail.com par le tien) -->
+  <a href="mailto:ton.email@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+
+  <!-- Badge LinkedIn (Remplace ton-username par ton vrai profil) -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+
+  <!-- Badge Instagram (Optionnel - Remplace ton-username) -->
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
+
+
 
 
 
