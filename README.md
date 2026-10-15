@@ -1,21 +1,21 @@
-# <img src="https://giphy.com" width="35"> أهلاً بك في عالمي البرمجي!
+# <img src="https://giphy.com" width="35"> Bienvenue sur mon profil GitHub !
 
 <p align="center">
-  <img src="https://demolab.com {content_removed} B%D8%A8+%D8%B9%D9%84%D9%88%D9%85+%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8+%F0%9F%8E%93;%D9%85%D8%B7%D9%85%D9%88%D8%B1+Full-Stack+%D9%88%D9%8A%D8%A8+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 نبذة عني (About Me)
-أنا طالب ومطور ويب شغوف، متخصص في بناء المواقع والتطبيقات المتكاملة من الصفر (**Front-End & Back-End**). أحب تحويل الأفكار والتصاميم إلى أكواد حقيقية تشتغل بدقة وسلاسة.
+### 🚀 À propos de moi
+Je soy un étudiant en informatique et un développeur web passionné, spécialisé dans la création d'applications et de sites web complets (**Front-End & Back-End**). J'aime transformer des idées et des designs complexes en code propre, fluide et performant.
 
-- 📚 أدرس حالياً البرمجة وتطوير البرمجيات وتصميم المواقع.
-- 🛠️ أحب قضاء وقتي في حل المشاكل البرمجية وتطوير مشاريع مثل موقع المطاعم ونسخ المواقع العالمية.
-- 💡 هدفي دائماً هو كتابة كود نظيف (Clean Code) ومنظم.
+- 📚 Étudiant en développement de logiciels et design web.
+- 🛠️ J'adore passer mon temps à résoudre des problèmes complexes et à coder des projets réels (comme des sites de restaurants ou des clones de sites e-commerce).
+- 💡 Mon objectif est toujours d'écrire un code propre (Clean Code), optimisé et bien structuré.
 
 ---
 
-### 🛠️ المهارات والتقنيات (My Tech Stack)
+### 🛠️ Compétences et Technologies (My Tech Stack)
 
 <p align="left">
   <!-- Front-end -->
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 إحصائيات الحساب (GitHub Stats)
+### 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📫 تواصل معي (Connect with me)
+### 📫 Contactez-moi
 <p align="left">
   <a href="mailto:your-email@gmail.com"><img src="https://shields.io" /></a>
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
