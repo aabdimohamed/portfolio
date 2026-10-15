@@ -21,7 +21,8 @@
 
 
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
-##📊 GitHub Stats:
+## 📊 GitHub & Stats :
+
 <hr/>
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
