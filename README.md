@@ -11,7 +11,7 @@
 </div>
 
 
-#🛠️ Skills & Technologies :
+## 🛠️ Skills & Technologies :
 
 <p align="left">
   <a href="https://skillicons.dev">
