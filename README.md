@@ -35,7 +35,7 @@
 ---
 
 
-  <b> ## Badges de Profil</b>
+  <b>  Badges de Profil</b>
 </p>
 <a href="https://github.com/abidimed866-design"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40abidimed866--design-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40abidimed866--design-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
