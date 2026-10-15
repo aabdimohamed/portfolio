@@ -59,28 +59,9 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  ## 🌐 Connect With Me:
-
-<p align="left">
-  <!-- زر إنستغرام (بدّل your_username بحسابك) -->
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-
-  <!-- زر جيميل (بدّل your.email@gmail.com بإيميلك) -->
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-
+ 
   <!-- زر يوتيوب (بدّل your_channel برابط قناتك) -->
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://shields.io" alt="YouTube" />
-  </a>
-
-  <!-- زر لينكد إن (بدّل your_username بحسابك) -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+ 
 </p>
 
 
