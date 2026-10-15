@@ -56,13 +56,7 @@
   </a>
 
   <!-- Badge LinkedIn (Remplace ton-username par ton vrai profil) -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
- 
-  <!-- زر يوتيوب (بدّل your_channel برابط قناتك) -->
- 
-</p>
+  
 
 
  
