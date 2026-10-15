@@ -1,26 +1,86 @@
-<h1 align="center">Hi  I'm AAbdi Mohamed</h1>
-<h3 align="center">Un étudiant Full-Stack passionné du Maroc</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ammar+Ageeza!+😎;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abidimed866-design&label=Profile%20views&color=0e75b6&style=flat" alt="abidimed866-design" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidimed866-design" alt="abidimed866-design" /></a> </p>
+## 🙋‍♂️ About Me:
 
-- I’m currently working on **mon site web de restaurant (Front-End & Back-End)**
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
 
--  I’m looking to collaborate on **les technologies Full-Stack et l'optimisation du code**
+- 🌱 I’m currently learning **Advanced Flutter**.
 
--  I’m looking for help with **des projets web open-source**
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/AmmarAgeeza/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AmmarAgeeza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAgeeza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidimed866-design&show_icons=true&locale=en&layout=compact" alt="abidimed866-design" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abidimed866-design&theme=react&hide_border=true&border_radius=4.9&exclude_days=Sun%2CMon&card_width=494" alt="GitHub Streak" /></a>
+## 🤝 Connect With Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidimed866-design&show_icons=true&locale=en" alt="abidimed866-design" /></p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ammarfathy516@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+        <a href="https://mostaql.com/u/ammarageeza/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+     </a>
+     <a href="https://t.me/ammarageeza">
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abidimed866-design&theme=react&hide_border=true&border_radius=4.9&exclude_days=Sun&card_width=400&card_height=200&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+</a>
+<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
