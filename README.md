@@ -7,7 +7,7 @@
 <div>
 -  I’m currently working as a Full-Stack Web Developer Building complete web applications (Front-End  Back-End)<br>
 - I’m currently learning and improving my skills in PHP, MySQL, JavaScript and Web Optimization<br>
--  All of my projects are available at [My Repository] (git@github.com:abidimed866-design/razer-clone-front-end.git)<br>
+-  All of my projects are available at [My Repository] (https://github.com/abidimed866-design/razer-clone-front-end.git)<br>
 </div>
 
 
