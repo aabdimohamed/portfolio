@@ -1,50 +1,25 @@
-# <img src="https://giphy.com" width="35"> Bienvenue sur mon profil GitHub !
+<h1 align="center">Hi 👋, I'm AAbdi Mohamed</h1>
+<h3 align="center">Un étudiant Full-Stack passionné du Maroc</h3>
 
-<p align="center">
-  <!-- هاد السطر هو لي فيه التأثير المتحرك المستقر لي كيكتب ويتمسح 👇 -->
-  <img src="https://vercel.app" alt="Typing SVG" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abidimed866-design&label=Profile%20views&color=0e75b6&style=flat" alt="abidimed866-design" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidimed866-design" alt="abidimed866-design" /></a> </p>
 
-### 🚀 À propos de moi
-Je suis un étudiant en informatique et un développeur web passionné, spécialisé dans la création d'applications et de sites web complets (**Front-End & Back-End**). J'aime transformer des idées et des designs complexes en code propre, fluide et performant.
+- 🔭 I’m currently working on **mon site web de restaurant (Front-End & Back-End)**
 
-- 📚 Étudiant en développement de logiciels et design web.
-- 🛠️ J'adore passer mon temps à résoudre des problèmes complexes et à coder des projets réels (comme des sites de restaurants ou des clones de sites e-commerce).
-- 💡 Mon objectif est toujours d'écrire un code propre (Clean Code), optimisé et bien structuré.
+- 👯 I’m looking to collaborate on **les technologies Full-Stack et l'optimisation du code**
 
----
+- 🤝 I’m looking for help with **des projets web open-source**
 
-### 🛠️ Compétences et Technologies (My Tech Stack)
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Front-end -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Back-end & Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### 📊 Statistiques GitHub
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidimed866-design&show_icons=true&locale=en&layout=compact" alt="abidimed866-design" /></p>
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidimed866-design&show_icons=true&locale=en" alt="abidimed866-design" /></p>
 
----
-
-### 📫 Contactez-moi
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-</p>
-
-<p align="center"><img src="https://vercel.app" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidimed866-design&" alt="abidimed866-design" /></p>
