@@ -23,14 +23,17 @@
 📊 GitHub Stats:
 📊 GitHub Stats:
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
+📊 GitHub Stats:
+
+<!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="https://shion.dev" width="49%" />
-  <img src="https://shion.dev" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="49%" />
 </div>
 
-<!-- السطر الثاني: الـ Streak فـ الوسط بالـ CSS فقط -->
-<div style="width: 100%;">
-  <img src="https://demolab.com" style="display: block; margin: 0 auto;" width="60%" />
+<!-- السطر الثاني: الـ Streak معروض في الأسفل في المنتصف -->
+<div style="display: flex; justify-content: center;">
+  <img src="https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true" width="60%" />
 </div>
 
 
