@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aabdi+Mohamed!+;" />
 </div>
 <div>
--  I’m currently working as a Full-Stack Web Developer Building complete web applications (Front-End  Back-End)
-- I’m currently learning and improving my skills in PHP, MySQL, JavaScript and Web Optimization
--  All of my projects are available at [My Repository] (https://github.com)
+-  I’m currently working as a Full-Stack Web Developer Building complete web applications (Front-End  Back-End)<br>
+- I’m currently learning and improving my skills in PHP, MySQL, JavaScript and Web Optimization<br>
+-  All of my projects are available at [My Repository] (https://github.com)<br>
 </div>
 
 
