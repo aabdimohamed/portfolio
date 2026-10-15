@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidimed866-design&show_icons=true&locale=en" alt="abidimed866-design" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidimed866-design&" alt="abidimed866-design" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abidimed866-design&theme=react&hide_border=true&border_radius=4.9&exclude_days=Sun&card_width=400&card_height=200&hide_total_contributions=true" alt="GitHub Streak" /></a>
