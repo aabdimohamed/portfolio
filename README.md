@@ -85,10 +85,13 @@
 
 
   <!-- Badge Instagram (Optionnel - Remplace ton-username) -->
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+  ## 🌐 Connect With Me:
+
+[![Gmail](https://shields.io)](mailto:your-email@gmail.com)
+[![Instagram](https://shields.io)](https://instagram.com)
+[![YouTube](https://shields.io)](https://youtube.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 
 
 
