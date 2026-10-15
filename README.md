@@ -21,9 +21,18 @@
 
 ## 📊 GitHub Stats:
 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+📊 GitHub Stats:
+
+<!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="https://github-readme-stats.shion.dev/api?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+</div>
+
+<!-- السطر الثاني: الـ Streak معروض في الأسفل في المنتصف -->
+<div style="display: flex; justify-content: center;">
+  <img src="https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true" width="60%" />
+</div>
 
 ## 📊 GitHub Stats:
 
