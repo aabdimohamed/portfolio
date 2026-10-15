@@ -8,7 +8,6 @@
 -  I’m currently working as a Full-Stack Web Developer Building complete web applications (Front-End  Back-End)<br>
 - I’m currently learning and improving my skills in PHP, MySQL, JavaScript and Web Optimization<br>
 -  All of my projects are available at [My Repository] (https://github.com/abidimed866-design/razer-clone-front-end.git)<br>
-git@github.com:abidimed866-design/razer-clone-front-end.git
 </div>
 
 
@@ -19,11 +18,8 @@ git@github.com:abidimed866-design/razer-clone-front-end.git
    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,react,mysql,mongodb,git,github,bootstrap" />
   </a>
     
-
-
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 ## 📊 GitHub & Stats :
-
 <hr/>
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
