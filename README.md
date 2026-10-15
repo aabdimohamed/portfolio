@@ -1,8 +1,8 @@
 # <img src="https://giphy.com" width="35"> Bienvenue sur mon profil GitHub !
 
 <p align="center">
-  <!-- هاد السطر هو لي فيه التأثير المتحرك لي كيتحرك دابا 👇 -->
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <!-- هاد السطر هو لي فيه التأثير المتحرك المستقر لي كيكتب ويتمسح 👇 -->
+  <img src="https://vercel.app" alt="Typing SVG" />
 </p>
 
 ---
