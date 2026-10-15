@@ -1,13 +1,14 @@
 # <img src="https://giphy.com" width="35"> Bienvenue sur mon profil GitHub !
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <!-- هاد السطر هو لي فيه التأثير المتحرك لي كيتحرك دابا 👇 -->
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 À propos de moi
-Je soy un étudiant en informatique et un développeur web passionné, spécialisé dans la création d'applications et de sites web complets (**Front-End & Back-End**). J'aime transformer des idées et des designs complexes en code propre, fluide et performant.
+Je suis un étudiant en informatique et un développeur web passionné, spécialisé dans la création d'applications et de sites web complets (**Front-End & Back-End**). J'aime transformer des idées et des designs complexes en code propre, fluide et performant.
 
 - 📚 Étudiant en développement de logiciels et design web.
 - 🛠️ J'adore passer mon temps à résoudre des problèmes complexes et à coder des projets réels (comme des sites de restaurants ou des clones de sites e-commerce).
