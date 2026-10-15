@@ -22,20 +22,16 @@
 ## 📊 GitHub Stats:
 📊 GitHub Stats:
 📊 GitHub Stats:
-
-<!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
-📊 GitHub Stats:
-
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
   <img src="https://shion.dev" width="49%" />
-  <img src="https://vercel.app" width="49%" />
+  <img src="https://shion.dev" width="49%" />
 </div>
 
-<!-- السطر الثاني: الـ Streak معروض ومسنتر فـ الوسط تماماً 👇 -->
-<p align="center">
-  <img src="https://demolab.com" width="60%" />
-</p>
+<!-- السطر الثاني: الـ Streak فـ الوسط بالـ CSS فقط -->
+<div style="width: 100%;">
+  <img src="https://demolab.com" style="display: block; margin: 0 auto;" width="60%" />
+</div>
 
 
 ## 📊 GitHub Stats:
