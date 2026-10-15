@@ -6,8 +6,8 @@
 </div>
 <div>
 -  I’m currently working as a Full-Stack Web Developer Building complete web applications (Front-End  Back-End)
-- I’m currently learning and improving my skills in **PHP, MySQL, JavaScript and Web Optimization
-   -  All of my projects are available at [My Repository](https://github.com)
+- I’m currently learning and improving my skills in PHP, MySQL, JavaScript and Web Optimization
+   -  All of my projects are available at [My Repository] (https://github.com)
 </div>
 
 
@@ -22,9 +22,6 @@
 ---
 
 ## 📊 GitHub Stats:
-
-## 📊 GitHub Stats:
-
 <p align="center">
   <!-- بطاقة الإحصائيات العامة للحساب (مستوى الحساب، عدد الكوميت والأنشطة) -->
   <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
@@ -42,3 +39,7 @@
   <!-- خط النهاية المموج والمتحرك بالديكور الغامق لإغلاق البروفايل بشكل جمالي -->
   <img src="https://vercel.app" width="100%" />
 </p>
+
+
+## 📊 GitHub Stats:
+
