@@ -17,34 +17,13 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,react,mysql,mongodb,git,github,bootstrap" />
   </a>
-    ## 📊 GitHub Stats & Most Used Languages:
-
-<p align="center">
-  <!-- 1. بطاقة الإحصائيات العامة (اليسار ف الصورة) -->
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  
-  <!-- 2. بطاقة اللغات الأكثر استخداماً (اليمين ف الصورة) -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-</p>
-
----
+    
 
 ## 📊 GitHub Stats:
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abidimed866-design&theme=dark" alt="GitHub Streak" /></a>
-    ## 📊 GitHub Stats & Most Used Languages:
-
-<p align="center">
-  <!-- 1. بطاقة الإحصائيات العامة (اليسار ف الصورة) -->
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  
-  <!-- 2. بطاقة اللغات الأكثر استخداماً (اليمين ف الصورة) -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-</div>
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats:
 
