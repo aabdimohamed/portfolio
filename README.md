@@ -58,7 +58,15 @@
 <p align="center">
   <b>Code • Build • Innovate 🚀</b>
 </p>
+<a href="https://github.com/abidimed866-design"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40abidimed866--design-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40abidimed866--design-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
+<a href="https://github.com/abidimed866-design?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/abidimed866-design.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/abidimed866-design.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/abidimed866-design?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/abidimed866-design.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/abidimed866-design.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/abidimed866-design?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-3-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-3-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+
+</div>
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
 
 
 
