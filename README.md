@@ -17,6 +17,16 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,react,mysql,mongodb,git,github,bootstrap" />
   </a>
+    ## 📊 GitHub Stats & Most Used Languages:
+
+<p align="center">
+  <!-- 1. بطاقة الإحصائيات العامة (اليسار ف الصورة) -->
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  
+  <!-- 2. بطاقة اللغات الأكثر استخداماً (اليمين ف الصورة) -->
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
 </p>
 
 ---
