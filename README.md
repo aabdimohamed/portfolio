@@ -21,7 +21,8 @@
 
 
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
-📊 GitHub Stats:
+##📊 GitHub Stats:
+<hr/>
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
   <img src="https://github-readme-stats.shion.dev/api?username=abidimed866-design&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
