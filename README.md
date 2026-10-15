@@ -32,6 +32,34 @@
   <img src="https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true" width="80%" />
 </div>
 
+---
+
+## 🌐 Connect With Me:
+
+<p align="left">
+  <!-- رابط الإيميل ديالك ديريكت -->
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  
+  <!-- رابط حسابك في LinkedIn إذا كان عندك -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <!-- هاد السطر كيزيد خط مموج ومتحرك بالألوان فآخر الصفحة كيعطي منظر رائع للبروفايل -->
+  <img src="https://vercel.app" width="100%" />
+</p>
+
+<p align="center">
+  <b>Code • Build • Innovate 🚀</b>
+</p>
+
+
 
 
 
