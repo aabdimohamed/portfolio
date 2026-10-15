@@ -19,9 +19,7 @@
   </a>
     
 
-## 📊 GitHub Stats:
-📊 GitHub Stats:
-📊 GitHub Stats:
+
 <!-- السطر الأول: الإحصائيات واللغات جنب إلى جنب -->
 📊 GitHub Stats:
 
@@ -32,10 +30,10 @@
 </div>
 
 <!-- السطر الثاني: الـ Streak معروض في الأسفل في المنتصف -->
-<div style="display: flex; align: center;">
-  <img src="https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true" width="60%" />
+<div style="display: flex; justifiy-content: center;">
+  <img src="https://streak-stats.demolab.com/?user=abidimed866-design&theme=dark&hide_border=true" width="80%" />
 </div>
 
 
-## 📊 GitHub Stats:
+
 
