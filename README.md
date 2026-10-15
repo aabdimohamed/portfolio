@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm AAbdi Mohamed</h1>
+<h1 align="center">Hi  I'm AAbdi Mohamed</h1>
 <h3 align="center">Un étudiant Full-Stack passionné du Maroc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidimed866-design&label=Profile%20views&color=0e75b6&style=flat" alt="abidimed866-design" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidimed866-design" alt="abidimed866-design" /></a> </p>
 
-- 🔭 I’m currently working on **mon site web de restaurant (Front-End & Back-End)**
+-  I’m currently working on **mon site web de restaurant (Front-End & Back-End)**
 
-- 👯 I’m looking to collaborate on **les technologies Full-Stack et l'optimisation du code**
+-  I’m looking to collaborate on **les technologies Full-Stack et l'optimisation du code**
 
-- 🤝 I’m looking for help with **des projets web open-source**
+- 🤝I’m looking for help with **des projets web open-source**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
